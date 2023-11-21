@@ -9,11 +9,21 @@ const Home = () =>  {
             <nav>
                 <ul>
                     <li>
-                        <Link to="/Atividade01">Atividade 01</Link>
+                        <Link to="/Atividade01">Atividade Relogio</Link>
                     </li>
                     <li>
-                        <Link to="/Atividade02">Atividade 02</Link>
+                        <Link to="/Atividade02">Atividade Letreiro</Link>
                     </li>
+                    <li>
+                        <Link to="/Atividade03">Atividade Aula07</Link>
+                    </li>
+                    <li>
+                        <Link to="/Atividade04">Atividade Contador</Link>
+                    </li>
+                    <li>
+                        <Link to="/Atividade05">Atividade Calculadora</Link>
+                    </li>
+                    
                 </ul>
             </nav>
         </div>
